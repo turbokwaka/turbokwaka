@@ -1,1 +1,6 @@
- <img src="https://media.tenor.com/pHsc-VB8NccAAAAi/horse-horses.gif"/>
+```
+Пишу тг-ботів, вчу нейронки, pyqt6.  
+Автоматизація, і все таке.  
+Іноді в мене навіть щось запускається.  
+```
+![тупоя](https://coolgifs.neocities.org/gifs/75.gif)
